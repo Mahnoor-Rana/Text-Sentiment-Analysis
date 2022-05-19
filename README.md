@@ -4,6 +4,12 @@ The project is all about <b>SMS Spam Collection</b>
 
 The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
 
+<br>
+1. First of all you have to clean the data like spaces special characters numbers etc.<br>
+2. Then split the data into training and testing and then build and compile the model .<br>
+3. After all you can evaluate the model and check its accuracy.
+
+
 
 
 
